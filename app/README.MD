@@ -1,2 +1,2 @@
 <h2>Allowing Camera & Mic</h2>
-<img src="Captures/AllowCam&Mic">
+<img height="50" src="Captures/AllowCam&amp;amp;amp;Mic" width="50"/>
